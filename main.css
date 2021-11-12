@@ -1,0 +1,153 @@
+
+@import url('https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css');
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+* {
+    box-sizing: border-box;
+}
+
+
+html {
+    /* Sets default font-size to 16px, ensuring 1em = 16px; */
+    font-size: 16px;
+    font-family: sans-serif;
+}
+
+
+
+
+.center
+
+{
+
+
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+
+}
+
+
+body {
+  background-color: lightgrey;
+}
+
+
+.iframe
+
+{
+
+display: block;
+width: 250px;
+padding-top: 1%;
+margin-right: 51%;
+margin-left: auto;
+padding-bottom: 1%;
+
+}
+
+.header {
+
+ width: 75%;
+max-width: 1200px;
+ margin: 0 auto;
+padding: 0px;
+text-align: center;
+font-size: 15px;
+font-style: italic;
+word-spacing: normal;
+
+
+
+}
+
+.paragraph {
+
+display: block;
+align-content: center;
+max-width: 700px;
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+.p2 
+
+{
+
+display: block;
+align-content: center;
+max-width: 800px;
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+font-style: bold;
+padding-bottom: 2%;
+
+}
+
+.iframe2
+
+{
+
+display: block;
+padding-top: 0%;
+margin-right: 35%;
+margin-left: auto;
+padding-bottom: 1%;
+max-width: 400px;
+padding-bottom: 5%;
+
+}
+
+
+.iframe3
+
+
+{
+
+display: block;
+padding-top: 0%;
+margin-right: 30%;
+margin-left: auto;
+padding-bottom: 1%;
+max-width: 500px;
+padding-bottom: 5%;
+
+
+
+}
+
+figcaption {
+
+
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+font-style: italic;
+
+}
+
+h6 {
+
+font-size: 12px;
+
+
+}
+
+
+margin-left: 20px;
+padding-left: 25%;
+padding-bottom: 10%;
+
+margin-left: 20px;
+margin-right: 20px;
+padding-right: 25%;
+padding-left: 25%;
+padding-top: 10%;
+padding-bottom: 10%;
+
+
